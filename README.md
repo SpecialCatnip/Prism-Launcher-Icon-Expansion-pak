@@ -4,5 +4,6 @@ and unzip the file and idk
 
 idk
 i used github since i like how it looks
-and it looks fancy lmao
+and it looks fancy lmao.
+ 
 big credits to Prism Launcher
